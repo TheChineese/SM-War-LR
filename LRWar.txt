@@ -1,0 +1,22 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.1"
+		}
+		
+		"Notes"	"Changelog:"
+		"Notes"	"First Alpha Release"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/lastrequest_war.smx"
+		"Plugin"	"Path_SM/translations/warlr.phrases.txt"
+		"Plugin"	"Path_SM/translations/de/warlr.phrases.txt"
+		
+		"Source"	"Path_SM/scripting/lastrequest_war.sp"
+	}
+}
